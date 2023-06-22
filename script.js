@@ -2,7 +2,7 @@
 *                                *
 *           Mass DM              *
 Author: 17teen with modifications by R.
-*       Discord: r.dotted.       *
+*       Discord: r.dot.          *
 *                                *
 * * * * * * * * * * * * * * * * */
 
