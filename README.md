@@ -39,7 +39,7 @@ Put your bot token in the `settings.json`.
 
 **Setup:**
 1. Run `Launch.bat` file to install required modules.
-2. Open script.js and change "not in backup" in >const targetRoleName = "not in backup"; to whatever role you wish to DM
+2. Open `script.js` and change "INSERT ROLE NAME" in line 14 `const targetRoleName = "INSERT ROLE NAME";` to whatever role you wish to DM
 3. Run `run.bat` file to start the programme.
 
 **Note:** All your bots intents must be toggled on. How to do so? `Dev Portal > Bot > Privileged Gateway Intents` **(toggle both intents on)**
