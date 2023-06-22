@@ -11,7 +11,7 @@ const { Client } = require("discord.js");
 const { red, yellow, greenBright, yellowBright } = require("chalk");
 const readline = require("readline").createInterface({ input: process.stdin, output: process.stdout });
 const fs = require("fs");
-const targetRoleName = "not in backup";
+const targetRoleName = "INSERT ROLE NAME";
 
 // Instance(s) & Settings
 const client = new Client();
