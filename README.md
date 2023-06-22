@@ -39,7 +39,8 @@ Put your bot token in the `settings.json`.
 
 **Setup:**
 1. Run `Launch.bat` file to install required modules.
-2. Run `run.bat` file to start the programme.
+2. Open script.js and change "not in backup" in >const targetRoleName = "not in backup"; to whatever role you wish to DM
+3. Run `run.bat` file to start the programme.
 
 **Note:** All your bots intents must be toggled on. How to do so? `Dev Portal > Bot > Privileged Gateway Intents` **(toggle both intents on)**
 
@@ -54,7 +55,7 @@ If normal mode was used you are subject to your bot being flagged by discord. Ho
 
 Unverified bots cannot Mass DM servers over 1k+ members. Make sure your bot is verified if you attempt to Mass DM servers over 1k members.
 
-## Contact Me
+## Contact for 17teen (Original Coder)
 
 ﹒[Discord](https://discord.com/users/358310460187082763)
 ﹒[Discord Server](https://discord.gg/4nSYqZ8KAA)
